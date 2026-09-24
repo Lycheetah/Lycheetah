@@ -14,3 +14,7 @@ A house with equal doors: governed work, a public method, a school, and play.
 Self-taught. No institution, no grant, no supervisor.
 
 This profile does not list clients or results. `lycheetah.com` is not a live door.
+
+## Older repositories
+
+The rest of this account is a backup. Research, prototypes, and old forges stay public so a dead computer does not take them. They are not products, and they are not the current door. If a repository is not named above, read it as an archive.
