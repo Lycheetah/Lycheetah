@@ -1,20 +1,29 @@
 # Lycheetah
 
-Mackenzie Clark · Dunedin, New Zealand.
+Mackenzie Clark · Ōtepoti Dunedin, New Zealand. 🐆
 
-A house with equal doors: governed work, a public method, a school, and play.
+Two things, built in the open.
 
-## Doors
+## Clothing
 
-- [Work](https://lycheetah.github.io/lyc-business-ai/) — LYC Business AI. A person still approves the work.
-- [Method](https://lycheetah.github.io/Lycheetah-Framework/) — public method documents. The measured tools sit in [Lycheetah-Framework-Reality](https://github.com/Lycheetah/Lycheetah-Framework-Reality).
-- [School, the door](https://lycheetah.github.io/lycheetah-io/) and [School, the showcase](https://lycheetah.github.io/mystery-school-showcase/) — both public, equal weight, until one address remains. Not for sale.
-- [Play](https://lycheetah.github.io/voidball-8/) — Voidball 8, a browser experiment.
+**[lycheetah.pages.dev](https://lycheetah.pages.dev)**
+
+Gothic clothing and hermetic symbols, built around a mythic god-cat. A small mark on the chest, the full story on the back. The store is not open yet. When it opens, the real garments, prices and link go up there first.
+
+5% of clothing profits go to cheetahs, from the first sale.
+
+## Lycheetah AI
+
+An offline AI made for New Zealand. It runs on your own phone with no wifi, so what you ask never leaves your device. In training now. No public download until it is good enough to trust.
+
+## Method
+
+**[Lycheetah Framework](https://github.com/Lycheetah/Lycheetah-Framework)** · [read it as a site](https://lycheetah.github.io/Lycheetah-Framework/)
+
+How the work is thought about: carry context, revise when the evidence changes, keep a person in charge of what runs, and keep a record that can be checked.
+
+## Everything else is sealed
+
+Research, games and the Mystery School app are archived here. Read-only, not deleted. They are fermenting, and some of them will come back rebuilt. Still open: [Lycheetah Realms](https://github.com/Lycheetah/PlayLYCrealms) and [The Codex of Lycheetah](https://github.com/Lycheetah/lycheetah-mythos).
 
 Self-taught. No institution, no grant, no supervisor.
-
-This profile does not list clients or results. `lycheetah.com` is not a live door.
-
-## Older repositories
-
-The rest of this account is a backup. Research, prototypes, and old forges stay public so a dead computer does not take them. They are not products, and they are not the current door. If a repository is not named above, read it as an archive.
